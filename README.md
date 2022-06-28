@@ -1,0 +1,1 @@
+"# sahibinden-fiyat-ortalama" 
